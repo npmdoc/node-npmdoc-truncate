@@ -1,6 +1,6 @@
 # npmdoc-truncate
 
-#### api documentation for  [truncate (v2.0.0)](https://github.com/FGRibreau/node-truncate)  [![npm package](https://img.shields.io/npm/v/npmdoc-truncate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-truncate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-truncate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-truncate)
+#### basic api documentation for  [truncate (v2.0.0)](https://github.com/FGRibreau/node-truncate)  [![npm package](https://img.shields.io/npm/v/npmdoc-truncate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-truncate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-truncate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-truncate)
 
 #### Truncate text and keep urls safe
 
@@ -60,7 +60,8 @@
     "scripts": {
         "test": "nodeunit test.js"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
